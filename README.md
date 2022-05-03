@@ -1,6 +1,8 @@
 # aws-lex-chatbot
 Chatbot Built Using Aws Lex to Help Customers Make Financial Decisions
 
+Click [here](https://github.com/tejeshreddy/aws-lex-chatbot/blob/main/assets/SVB%20Hackathon%20Presentation.pdf) to view the final presentation
+
 
 ## Functionalities
 - Understand basic human conversations to translate to financial questions
@@ -17,14 +19,13 @@ Chatbot Built Using Aws Lex to Help Customers Make Financial Decisions
 
 ## Chatbot Screenshots
 
-Sentiment of a Stock
-
+Sentiment of a Stock<br>
 <img src="assets/chat-sc-2.png" width="500"/>
 
-News headlines of a Stock
+News headlines of a Stock<br>
 <img src="assets/chat-sc-3.png" width="500"/>
 
-Providing Financials of a Stock
+Providing Financials of a Stock<br>
 <img src="assets/ chat-sc-4.png" width="500"/>
 
 
